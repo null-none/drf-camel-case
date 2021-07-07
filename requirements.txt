@@ -1,2 +1,4 @@
+twine>=3.4.1
+wheel>=0.36.2
 djangorestframework>=2.0.0
 django>=1.8
