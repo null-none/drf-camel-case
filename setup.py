@@ -26,7 +26,7 @@ setup(
     package_dir={"drf_camel_case": "drf_camel_case"},
     include_package_data=True,
     python_requires=">=3.5",
-    install_requires=[],
+    install_requires=['twine'],
     license="MIT",
     zip_safe=False,
     keywords="drf_camel_case",
