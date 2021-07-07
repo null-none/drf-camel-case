@@ -1,4 +1,4 @@
-name: Publish
+name: Publish pipy
 on: workflow_dispatch
 jobs:
   publish:
